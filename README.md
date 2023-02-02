@@ -7,6 +7,6 @@
 
 Evergreen es un proyecto llevado a cabo en una semana por estudiantes del IES Velazquez para presentar en el Mangafest 2022
 
-Se trata de un videojuego de puzzle y plataformas desarrollado en Unity en el que una planta trata de alcanzar la cima de una montaña para recibir luz. 
+Se trata de un videojuego de puzzle/plataformas desarrollado en Unity en el que una planta trata de alcanzar la cima de una montaña para recibir luz. 
 
 La jugabilidad gira entorno a las dos semillas de las que nuestra planta dispone: una que la teletransporta a la superficie en la que cae y otra que genera una plataforma que desaparece tras unos segundos. 
