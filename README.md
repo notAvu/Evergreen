@@ -11,3 +11,7 @@ Se trata de un videojuego de puzzle/plataformas desarrollado en Unity en el que 
 
 ## Jugabilidad 
 La jugabilidad gira entorno a las dos semillas de las que nuestra planta dispone: una que la teletransporta a la superficie en la que cae y otra que genera una plataforma que desaparece tras unos segundos. 
+
+El jugador deberá hacer uso de una combinacion de movimientos básicos de un juegos de plataforma y estas herramientas para abrirse paso a través de los niveles. 
+
+Sin embargo, el personaje protagonista se encuentra en peligro, deberá evitar a los cuervos que habitan la montaña y recolectar los recursos necesarios para poder subrevivir el tiempo necesario para alcanzar su meta
